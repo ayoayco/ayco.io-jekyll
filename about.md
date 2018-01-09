@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Ayo, a software engineer by profession who also occasionally *delves* into some art, music, literature...
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I live in the Philippines with my wife, Jen, and our little boy, Kahel, with whom I often go travel around to take pictures, eat local delicacies, and make lots of fun memories.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Here, I write notes on technology and life as I experience them hoping to help, if not inspire, others to live more efficient and happier lives... 
