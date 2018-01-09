@@ -1,5 +1,3 @@
-# Good Programming Practices
-
 ## Programming as Problem Solving
 - Programming is basically writing down code to instruct computers how to solve problems.
 - This means that there may be as many ways to code a program as there are ways to solve a problem.
