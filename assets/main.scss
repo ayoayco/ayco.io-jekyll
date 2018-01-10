@@ -103,8 +103,9 @@ a:hover {
     text-decoration: none;
 }
 
-ul.desc-list {
+.desc-list, .contact-list, .social-media-list {
     list-style: none;
+    margin-left: 0;
 }
 
 .page-content {

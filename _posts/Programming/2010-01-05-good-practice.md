@@ -2,7 +2,7 @@
 title: "Good Programming Practices"
 permalink: "/:title"
 ---
-I want to talk about programming and some practices that I think makes a programmer more efficient when observed. First, let's talk about what programming is.
+I want to talk about programming and some practices that, I think, can make a programmer more efficient when observed. First, let's talk about what programming is.
 
 ### Programming as Problem Solving
 - Programming is basically writing down code to instruct computers how to solve problems.
