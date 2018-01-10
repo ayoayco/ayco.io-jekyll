@@ -49,6 +49,13 @@ a, a:visited, .site-nav .page-link {
     transition: all 0.25s;
 }
 
+@media screen and (max-width: 600px) {
+    .site-nav {
+        background-color: transparent !important;
+        border: 0px !important;
+    }
+}
+
 .site-nav .page-link:hover {
     color: #fc0;
     background-color: #252525;
@@ -88,7 +95,7 @@ a.post-link, h1.post-title {
 
 h1.post-title {
     color: #fff;
-    font-size: 50px;
+    font-size: 32px;
 }
 
 a:hover {
