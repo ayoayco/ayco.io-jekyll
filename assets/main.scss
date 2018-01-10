@@ -11,12 +11,15 @@ body {
 .site-title {
     font-size: 50px;
     color: white !important;
-    text-shadow:2px 4px 3px rgba(0,0,0,0.3);
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
 }
 
 .page-content {
-    width: 900px;
-    margin: 0 auto !important;
+    background-color: white;
+    width: 700px;
+    margin: 30px auto !important;
     background-color: #444 !important;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
@@ -26,6 +29,15 @@ body {
     -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
     font-size: 16px;
+}
+
+.site-nav .page-link.current {
+    background-color: #fc0;
+    color: #222;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 1px 5px rgba(0,0,0,0.5);
+    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.5),0 1px 5px rgba(0,0,0,0.5);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 1px 5px rgba(0,0,0,0.5);
+    text-shadow: 0 1px 0 rgba(255,255,255,0.3);
 }
 
 a, a:visited, .site-nav .page-link {
@@ -38,6 +50,7 @@ a, a:visited, .site-nav .page-link {
 }
 
 .site-nav .page-link:hover {
+    color: #fc0;
     background-color: #252525;
     -webkit-box-shadow: inset 0 1px 3px rgba(0,0,0,0.5), 0 1px 0 rgba(255,255,255,0.1);
     -moz-box-shadow: inset 0 1px 3px rgba(0,0,0,0.5),0 1px 0 rgba(255,255,255,0.1);
@@ -83,7 +96,6 @@ ul.desc-list {
 }
 
 .page-content {
-    background-color: white;
 }
 
 .footer-col-wrapper {
@@ -93,6 +105,7 @@ ul.desc-list {
 .site-header, .site-footer {
     background: #2b2b2b;
     border: 0px;
+    padding: 15px;
 }
 
 .site-desc {
@@ -122,9 +135,6 @@ ul.desc-list {
 /**/
 html,
 body {
-   margin:0;
-   padding:0;
-   height:100%;
     font: 300 21px Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #ddd;
     background-color: #333;
@@ -139,28 +149,6 @@ body {
     font-kerning: normal;
     margin: 0;
 }
-
-.site-container {
-   min-height:100%;
-   position:relative;
-}
-
-.site-header {
-    padding: 10px;
-}
-
-.site-body {
-    padding: 10px;
-   padding-bottom:60px;   /* Height of the footer */
-}
-
-.site-footer {
-   position:absolute;
-   bottom:0;
-   width:100%;
-   height:60px;   /* Height of the footer */
-}
-
 
 /**/
 .text-js{
