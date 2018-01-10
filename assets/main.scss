@@ -76,7 +76,7 @@ a, a:visited, .site-nav .page-link {
 a.post-link:hover {
     color: white;
 }
-a.post-link {
+a.post-link, h1.post-title {
     color: #ddd;
     font-weight: bold;
     display: block;
@@ -84,6 +84,11 @@ a.post-link {
     -webkit-margin-after: 0.67em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
+}
+
+h1.post-title {
+    color: #fff;
+    font-size: 50px;
 }
 
 a:hover {
