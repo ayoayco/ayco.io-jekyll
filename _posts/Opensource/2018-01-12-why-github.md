@@ -1,6 +1,6 @@
 ---
-title: What all Developers need Github
-permalink: /why-github
+title: "What all Developers need Github"
+permalink: "/why-github"
 ---
 
 [Github](https://github.com) is a website for opensource communities. It is sort of the place in the Web where developers get together to work on projects. Because of this, I find it the best place to learn how to contribute to/start an opensource project or even just to see and learn how other developers code and communicate with each other to resolve issues. To cut the long story short, Github's a good place to learn.
