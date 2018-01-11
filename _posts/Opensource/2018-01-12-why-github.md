@@ -1,5 +1,5 @@
 ---
-title: "What all Developers need Github"
+title: "Why all Developers need Github"
 permalink: "/why-github"
 ---
 
