@@ -1,7 +1,7 @@
 ---
 title: "MonkDog in PHP"
 permalink: /monkdog-in-php
-project-date: "Sometime in 2008 or 2009"
+project-date: "2008"
 image: ayo.png
 description: "Ayo Ayco has contributed software development expertise to UPLB, DOST, Infor, and various government-funded projects such as University of the Philippines’ National Operational Assessment of Hazards and Ateneo’s Cloud-Based Intelligent Total Analysis System."
 ---
