@@ -7,4 +7,6 @@ description: "Ayo Ayco has contributed software development expertise to UPLB, D
 ---
 Hosted in Infor’s private intranet, this is a submission platform where employees can share ideas or kick-start projects.
 
+*More details about this project will be added later.*
+
 Technologies: PHP, MySQL, MiniOrange SAML Login, Windows Server (IIS), Windows ADFS
