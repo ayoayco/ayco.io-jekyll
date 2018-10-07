@@ -43,14 +43,12 @@ defaults:
 
 # this goes inside _config.yml. Change as required
 navigation:
-- text: Projects
+- text: Home
   url: /
 - text: Talks
   url: /talks/
 - text: Notes
   url: /notes/
-- text: About
-  url: /about/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
