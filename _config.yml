@@ -45,10 +45,12 @@ defaults:
 navigation:
 - text: Projects
   url: /
-- text: About
-  url: /about/
+- text: Notes
+  url: /notes/
 - text: Talks
   url: /talks/
+- text: About
+  url: /about/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
