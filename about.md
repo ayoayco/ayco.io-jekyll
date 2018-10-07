@@ -4,16 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Obviously, this website is far from complete.
+#### *Profile*
+Ayo Ayco is a Software Engineer, Web Developer, and occasional Artist/Writer/Musician based in Metro Manila, Philippines.
 
-This is because it is quite new and I am only able to work on it in my very limited spare time.
+#### *Education*
+Graduated Bachelors of Science in Computer Science from the [University of the Philippines in Los Ba&ntilde;os, Philippines](https://uplb.edu.ph).
 
-However, when it is ready, it will contain details of my [projects](/), [talks](/talks), and some of my [notes](#).
+#### *Selected Clients/Employers*
+[Infor](https://infor.com), [AJWCC](http://ajwcc.ateneo.edu/), [Oxfam in Asia](https://asia.oxfam.org), [SEATCA](http://seatca.org/), [Project NOAH](http://noah.up.edu.ph), [UPLB-ITC](https://itc.uplb.edu.ph)
 
-If you want to read more of my works, I also have a [tech blog](https://fullhacker.com) and an outdated [personal blog](https://blog.ayoayco.com).
-
-Oh and by the way, I'm Ayo, real name: Ramon Ayco Jr.
-
-I am a software engineer by profession who also occasionally *delves* into some art, music, literature...
-
-I live in the Philippines with my wife, Jen, and our little boy, Kahel, with whom I often go travel around to take pictures, eat local delicacies, and make lots of fun memories.
