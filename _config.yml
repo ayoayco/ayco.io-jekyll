@@ -45,10 +45,10 @@ defaults:
 navigation:
 - text: Projects
   url: /
-- text: Notes
-  url: /notes/
 - text: Talks
   url: /talks/
+- text: Notes
+  url: /notes/
 - text: About
   url: /about/
 
