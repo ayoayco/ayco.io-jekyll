@@ -1,6 +1,5 @@
 ---
 title: "Innovation Flight Central"
-permalink: /innovation-flight-central
 project-date: "2017"
 category: projects
 image: ayo.png
