@@ -4,25 +4,23 @@ layout: default
 
 <div class="home">
   <!-- start content-->
+  {{ content }}
   <!-- end content-->
 
   <!-- start blog list-->
   {% if site.posts.size > 0 %}
-  <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    <ul class="post-list">
+  <h4 id="{page.list-title}">{{ page.list-title }}</h4>
+    <ul>
       {% for category in site.categories %}
         {% if category[0] == "projects" %}
           {% for post in category[1] %}
             <li>
               {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-              <span class="post-meta">{{ post.project-date }}</span>
-              <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-              </h3>
-              <div>
+              <span class="post-meta">{{ post.project-date }}</span>: <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              <!--div>
                   <p>{{ post.excerpt }}</p>
-                  <!--a href="{{ post.url | relative_url }}" class="page-link">Read More</a-->
-              </div> 
+                  <a href="{{ post.url | relative_url }}" class="page-link">Read More</a>
+              </div--> 
             </li>
           {% endfor %}
         {% endif %}
