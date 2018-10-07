@@ -10,7 +10,7 @@ description: "Ayo Ayco has contributed software development expertise to UPLB, D
 ---
 
 <div id="main-jumbotron">
-    <p id="profile"><em>Ayo Ayco</em> is a Software Engineer, Web Developer, and occasional Artist/Writer/Musician based in Metro Manila, Philippines</p>
+    <p id="profile"><em>Ayo Ayco</em> is a Software Engineer, Web Developer, and occasional artist, writer, and musician based in Metro Manila, Philippines</p>
 </div>
 
 #### Education
