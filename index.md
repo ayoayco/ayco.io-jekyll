@@ -14,7 +14,7 @@ description: "Ayo Ayco has contributed software development expertise to UPLB, D
 </div>
 
 #### Education
-Graduated Bachelors of Science in Computer Science from the [University of the Philippines in Los Ba&ntilde;os, Philippines](https://uplb.edu.ph)
+- Graduated Bachelors of Science in Computer Science from the [University of the Philippines in Los Ba&ntilde;os, Philippines](https://uplb.edu.ph)
 
 #### Selected Clients/Employers
 - [Infor](https://infor.com)
