@@ -43,7 +43,7 @@ defaults:
 
 # this goes inside _config.yml. Change as required
 navigation:
-- text: Home
+- text: Profile
   url: /
 - text: Talks
   url: /talks/
