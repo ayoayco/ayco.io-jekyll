@@ -10,7 +10,7 @@ description: "Ayo Ayco has contributed software development expertise to UPLB, D
 ---
 
 <div id="main-jumbotron">
-    <p id="profile"><em>Ayo Ayco</em> is a software engineer / web developer based in The Philippines</p>
+    <p id="profile"><em>Ayo Ayco</em> is a software engineer + web developer based in The Philippines</p>
     <a href="https://drive.google.com/file/d/1dIiUxUuClSxH8QHPDyfP6qb0V_rPxyUn/view?usp=sharing" target="_blank" class="primary-btn download-btn">Download CV</a>
 </div>
 
