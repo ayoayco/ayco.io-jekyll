@@ -7,6 +7,33 @@ layout: default
   {{ content }}
   <!-- end content-->
 
+<div id="main-jumbotron">
+    <p id="profile"><em>Ayo Ayco</em> is a software engineer + web developer based in Metro Manila, Philippines</p>
+    <a href="https://drive.google.com/file/d/1dIiUxUuClSxH8QHPDyfP6qb0V_rPxyUn/view?usp=sharing" target="_blank" class="primary-btn download-btn">Download CV</a>
+</div>
+<div id="sections">
+
+    <h3 class="section-title">Profile</h3>
+    <h4 class="section-subtitle">Education and Experience</h4>
+    <ul>
+        <li>Graduated Bachelors of Science in Computer Science from the [University of the Philippines Los Ba&ntilde;os](https://uplb.edu.ph)</li>
+        <li>Over seven years of professional experience in building web applications for private businesses and government-funded projects.</li>
+    </ul>
+
+    <h3 class="section-title">Trusted By</h3>
+    <h4 class="section-subtitle">Clients and Employers</h4>
+    <ul>
+        <li><a href="https://infor.com">Infor</a></li>
+        <li><a href="http://ajwcc.ateneo.edu/">AJWCC</a></li>
+        <li><a href="http://noah.up.edu.ph">Project NOAH</a></li>
+        <li><a href="https://itc.uplb.edu.ph">UPLB-ITC</a></li>
+    </ul>
+
+    <!--
+    - [SEATCA](http://seatca.org/)
+    - [Oxfam in Asia](https://asia.oxfam.org)
+    -->
+
   <!-- start blog list-->
   {% if site.posts.size > 0 %}
   <h3 id="{page.list-title}" class="section-title">{{ page.list-title }}</h3>
@@ -30,5 +57,6 @@ layout: default
 
   {% endif %}
   <!-- end blog list-->
+  </div>
 
 </div>
