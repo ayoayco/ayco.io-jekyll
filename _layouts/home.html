@@ -9,7 +9,8 @@ layout: default
 
   <!-- start blog list-->
   {% if site.posts.size > 0 %}
-  <h4 id="{page.list-title}">{{ page.list-title }}</h4>
+  <h3 id="{page.list-title}" class="section-title">{{ page.list-title }}</h3>
+  <h4 class="section-subtitle">Case Studies</h4>
     <ul>
       {% for category in site.categories %}
         {% if category[0] == "projects" %}

@@ -5,7 +5,7 @@
 layout: "home"
 title: "Software Engineer + Web Developer"
 image: ayo.png
-list-title: "Selected Projects"
+list-title: "Completed Projects"
 description: "Ayo Ayco has contributed software development expertise to UPLB, DOST, Infor, and various government-funded projects such as University of the Philippines’ National Operational Assessment of Hazards and Ateneo’s Cloud-Based Intelligent Total Analysis System."
 ---
 
@@ -13,10 +13,11 @@ description: "Ayo Ayco has contributed software development expertise to UPLB, D
     <p id="profile"><em>Ayo Ayco</em> is a Software Engineer, Web Developer, and occasional artist, writer, and musician based in Metro Manila, Philippines</p>
 </div>
 
-#### Education
+<h3 class="section-title">Education</h3>
 - Graduated Bachelors of Science in Computer Science from the [University of the Philippines in Los Ba&ntilde;os, Philippines](https://uplb.edu.ph)
 
-#### Selected Clients/Employers
+<h3 class="section-title">Trusted By</h3>
+<h4 class="section-subtitle">Clients and Employers</h4>
 - [Infor](https://infor.com)
 - [AJWCC](http://ajwcc.ateneo.edu/)
 - [Oxfam in Asia](https://asia.oxfam.org)
