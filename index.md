@@ -23,8 +23,11 @@ description: "Ayo Ayco has contributed software development expertise to UPLB, D
 <h4 class="section-subtitle">Clients and Employers</h4>
 - [Infor](https://infor.com)
 - [AJWCC](http://ajwcc.ateneo.edu/)
-- [Oxfam in Asia](https://asia.oxfam.org)
-- [SEATCA](http://seatca.org/)
 - [Project NOAH](http://noah.up.edu.ph)
 - [UPLB-ITC](https://itc.uplb.edu.ph)
+
+<!--
+- [SEATCA](http://seatca.org/)
+- [Oxfam in Asia](https://asia.oxfam.org)
+-->
 
