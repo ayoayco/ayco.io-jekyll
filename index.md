@@ -13,8 +13,10 @@ description: "Ayo Ayco has contributed software development expertise to UPLB, D
     <p id="profile"><em>Ayo Ayco</em> is a Software Engineer, Web Developer, and occasional artist, writer, and musician based in Metro Manila, Philippines</p>
 </div>
 
-<h3 class="section-title">Education</h3>
+<h3 class="section-title">Profile</h3>
+<h4 class="section-subtitle">Education and Experience</h4>
 - Graduated Bachelors of Science in Computer Science from the [University of the Philippines in Los Ba&ntilde;os, Philippines](https://uplb.edu.ph)
+- Over seven years of professional experience in building web applications for private businesses and government-funded projects.
 
 <h3 class="section-title">Trusted By</h3>
 <h4 class="section-subtitle">Clients and Employers</h4>
