@@ -18,7 +18,6 @@ h1.page-heading {
 div#main-jumbotron {
     margin-top: 20px;
     padding: 0 0 0px;
-    line-height: 50px;
     text-align: center;
 }
 
@@ -53,7 +52,7 @@ h4.section-subtitle {
 div.wrapper {
     width: 40%;
     max-width: 100% !important;
-    line-height: 25px;
+    line-height: 1.5;
 }
 
 .page-content {
@@ -93,7 +92,6 @@ a, .site-nav .page-link {
 @media screen and (max-width: 600px) {
     div#main-jumbotron {
         padding: 0 0 0px;
-        line-height: 40px;
         text-align: center;
     }
 
@@ -155,6 +153,7 @@ a, .site-nav .page-link {
 a.post-link, h1.post-title {
     color: #fc0;
     font-weight: bold;
+    line-height: 1;
     display: block;
     font-size: 2em;
     -webkit-margin-after: 0.67em;
