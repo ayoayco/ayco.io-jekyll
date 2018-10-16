@@ -23,7 +23,7 @@ div#main-jumbotron {
 
 div#main-jumbotron #profile {
     font-size: xx-large;
-    padding-bottom: 15px;
+    padding: 0 15px 15px;
 }
 
 div#main-jumbotron #profile em {
@@ -50,10 +50,22 @@ h4.section-subtitle {
              0px 18px 23px rgba(0,0,0,0.1);
 }
 
+div.nav-wrapper {
+    width: calc(100% - 60px);
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
 div.wrapper {
-    width: 40%;
+    max-width: 720px;
+}
+
+div#sections {
+    width: 80%;
+    max-width: 600px;
     max-width: 100% !important;
     line-height: 1.5;
+    margin: 0 auto;
 }
 
 .page-content {
@@ -91,19 +103,16 @@ a, .site-nav .page-link {
 }
 
 @media screen and (max-width: 600px) {
+
     div#main-jumbotron {
         margin-top: 0px;
         padding: 0 0 0px;
         text-align: center;
     }
 
-    div#main-jumbotron #profile {
-        font-size: 30px;
-    }
-
-    div.wrapper {
-        width: 70%;
-        max-width: 100% !important;
+    div#main-jumbotron #profile,
+    .download-btn {
+        font-size: 21px;
     }
 
     .site-nav .trigger {
