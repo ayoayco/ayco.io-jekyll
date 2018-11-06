@@ -39,7 +39,14 @@
         {% assign current = 'current' %}
       {% endif %}
 
+      {% if link.newWindow %}
+        <a target="_blank" class="page-link {{ current }}" href="{{ link.url | relative_url }}">{{ link.text }}</a>
+        {% else %}
         <a class="page-link {{ current }}" href="{{ link.url | relative_url }}">{{ link.text }}</a>
+      {% endif %}
+
+
+
     {% endfor %}
 </div>
       </nav>

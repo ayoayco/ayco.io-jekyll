@@ -44,10 +44,16 @@ defaults:
 # this goes inside _config.yml. Change as required
 navigation:
 - text: Profile
+  newWindow: false
   url: /
+- text: "Tech Blog"
+  newWindow: true
+  url: https://fullhacker.com
 - text: Talks
+  newWindow: false
   url: /talks/
 - text: Notes
+  newWindow: false
   url: /notes/
 
 # Exclude from processing.
