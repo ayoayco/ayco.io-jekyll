@@ -8,6 +8,14 @@ body {
     background: #333;
 }
 
+div#announcements {
+    background-color: white;
+    color: #555;
+    text-align: center;
+    letter-spacing: 3px;
+    padding: 30px;
+}
+
 h1.page-heading {
     text-align: center;
     font-weight: bold;
@@ -75,7 +83,6 @@ div#sections {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    padding: 30px 0;
     font-size: 16px;
 }
 
