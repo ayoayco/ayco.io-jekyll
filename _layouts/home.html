@@ -44,7 +44,8 @@ layout: default
           {% for post in category[1] %}
             <li>
               {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-              <span class="post-meta">{{ post.project-date }}</span>: <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              <!--span class="post-meta">{{ post.project-date }}</span>: <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a-->
+              <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
               <!--div>
                   <p>{{ post.excerpt }}</p>
                   <a href="{{ post.url | relative_url }}" class="page-link">Read More</a>
