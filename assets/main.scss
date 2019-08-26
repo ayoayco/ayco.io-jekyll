@@ -23,8 +23,6 @@ h1.page-heading {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 20px 0;
-    line-height: 1.5;
 }
 
 div#main-jumbotron {
@@ -173,13 +171,12 @@ a, .site-nav .page-link {
 }
 
 hr {
-    margin: 70px 0;
+    margin: 50px 0;
 }
 
 a.post-link, h1.post-title {
     color: #fc0;
     font-weight: bold;
-    line-height: 1.5;
     display: block;
     font-size: 2em;
     -webkit-margin-after: 0.67em;
@@ -196,6 +193,8 @@ h1.post-title {
 
 ul.post-list {
     li {
+        margin-bottom: 70px;
+
         p, ol li, ul li {
             font-size: 25px;
             line-height: 1.5;

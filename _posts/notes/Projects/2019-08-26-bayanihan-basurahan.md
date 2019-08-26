@@ -57,5 +57,3 @@ With this mission I hope to:
 
 Interested to support us in our quest? Have suggestions or inquiries? Please let us know what you think: <a href="mailto:tech4good.pm.me">tech4good@pm.me</a>
 
----
-
