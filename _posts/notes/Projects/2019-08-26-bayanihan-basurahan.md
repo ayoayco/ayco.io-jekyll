@@ -28,7 +28,7 @@ Out of sight, out of mind.
 
 ## Our Solution
 
-But what if we have a system that could capture the country's state when it comes to garbage disposal and bring this to the people's attention? Would it spark conversations? Could it aid creating in policies that might bring people to action and even prevent floods?
+But what if we have a system that could capture the country's state when it comes to garbage disposal and bring this to the people's attention? Would it spark conversations? Could it aid in creating policies that might bring people to action and even prevent floods?
 
 I think so.
 
