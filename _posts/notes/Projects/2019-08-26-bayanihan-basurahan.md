@@ -43,6 +43,7 @@ We are going to create a mobile application that:
 2. Has a system for users to validate other users uploads
 3. Provides some visualizations such as a map of points and a heatmap similar to the following:
 ![](https://previews.dropbox.com/p/thumb/AAhy6sa_bXyC2wMT4FlUw98bjn0sBQumA9EJNGNq5MIKvoApJ9hTgSD_hyEocqe6yR2TVsq95IPCsYza6ZhEuoX-6G4PtX8ZDosOqw7aYA_XTBX_OJ3Yw9Jx42NZ5-olDgUOdGoyA4ZZ7IM8jA3eMbs4HDhg4bpTBxX7NpUwwXbKmXRLjSLeBfrl5fJVbCW2sBpJH0X6oeqkDqwe4DsyvKhrvVH-O_-AZQTRP2mW2dpI3XucYO7oLNls3jo5c8ShYXIPohJWQC57hjuR3yswR2crKVu2lIjLmv7YgDIfGL7fNVCDmrJOIy76HDoDuIBJhse-nuLv9uma0h1J9u4LBhF7/p.png)
+*Photo from a screenshot of: https://yosmhm.neis-one.org*
 
 ---
 
