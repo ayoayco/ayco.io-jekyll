@@ -1,6 +1,6 @@
 ---
 title: "Bayanihan: Basurahan"
-permalink: "/:title"
+permalink: "/notes/:title"
 category: notes
 ---
 

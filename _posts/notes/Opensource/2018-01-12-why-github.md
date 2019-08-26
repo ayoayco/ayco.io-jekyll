@@ -1,6 +1,6 @@
 ---
 title: "Why all Developers need Github"
-permalink: "/why-github"
+permalink: "/notes/:title"
 category: notes
 ---
 

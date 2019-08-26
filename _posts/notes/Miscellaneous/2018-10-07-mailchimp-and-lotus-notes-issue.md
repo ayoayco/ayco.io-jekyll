@@ -1,5 +1,6 @@
 ---
 title: "Mailchimp + Lotus Notes Solution for HTML Email Campaigns"
+permalink: "/notes/:title"
 category: notes
 ---
 

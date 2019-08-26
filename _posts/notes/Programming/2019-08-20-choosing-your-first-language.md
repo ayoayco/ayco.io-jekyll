@@ -1,6 +1,6 @@
 ---
 title: "Choosing Your First Programming Language"
-permalink: "/:title"
+permalink: "/notes/:title"
 category: notes
 ---
 

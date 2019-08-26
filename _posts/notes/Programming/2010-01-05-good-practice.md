@@ -1,6 +1,6 @@
 ---
 title: "Good Programming Practices"
-permalink: "/:title"
+permalink: "/notes/:title"
 category: notes
 ---
 I want to talk about programming and some practices that, I think, can make a programmer more efficient when observed. First, let's talk about what programming is.<!--more-->
