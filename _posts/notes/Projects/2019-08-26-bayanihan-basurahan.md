@@ -8,7 +8,7 @@ With some of my most talented techie friends, I am now on a mission to create a 
 
 ![](https://previews.dropbox.com/p/thumb/AAg6l2NgE2B9F2mYHvLQkPhg4wW2V7Vj-u8zbVU9BMygpU1P8Pxs9P0-wXlgq2h-PFtZ9p4SCL8eBe1S_Tbum6P8Rf1bnBjQQNMOJ4r_Wj-iUgC-To_Z6HwJPu9MddX3YzEBVndJ_VBBBPhIfMYPh_jBACmLQqMsbbRBmg3Vt1lQv5HbR3zf6uYsosePwcR0kl34GZ-LpledjtlCVfNc397qI5kx8J4WUVvU1eSausWj1a4SBjdj6cOmIFuWGsGDL9iBLCcHSY84dZI3IZHa6Lw-XlNRXMfY9JdTXYnftF-FxzqTQzpjMBViqwT4nXl20-Hvjd8xcsR2AtgqgtEJorOB/p.jpeg)
 
-Studies upon studies show that this problem even leads to hazards such as flooding, which poses great danger to lives of millions of poor Filipinos.
+Studies upon studies show that this problem even leads to hazards such as flooding, which poses great danger to the lives of millions of poor Filipinos.
 
 Now, why does it seem that we don't talk about it as much as we should?
 
@@ -19,6 +19,8 @@ Now, why does it seem that we don't talk about it as much as we should?
 Notice that no matter how much mess we have in the "real world" we don't often talk about it online. We see politics, happy photos, and achievements, but rarely do we see messy locations shared on our social media streams.
 
 This is because our smart phones and computer screens have become our primary "window" to the world, and it is addicting because we have control on what our screens show us.
+
+We like kitties, we don't like trash.
 
 Out of sight, out of mind.
 
