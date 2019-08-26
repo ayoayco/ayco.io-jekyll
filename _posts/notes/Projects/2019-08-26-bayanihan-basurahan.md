@@ -6,7 +6,7 @@ category: notes
 
 With some of my most talented techie friends, I am now on a mission to create a simple solution to a big problem: that the Philippines is one of the least disciplined countries in garbage disposal.<!--more-->
 
-![](https://previews.dropbox.com/p/thumb/AAg6l2NgE2B9F2mYHvLQkPhg4wW2V7Vj-u8zbVU9BMygpU1P8Pxs9P0-wXlgq2h-PFtZ9p4SCL8eBe1S_Tbum6P8Rf1bnBjQQNMOJ4r_Wj-iUgC-To_Z6HwJPu9MddX3YzEBVndJ_VBBBPhIfMYPh_jBACmLQqMsbbRBmg3Vt1lQv5HbR3zf6uYsosePwcR0kl34GZ-LpledjtlCVfNc397qI5kx8J4WUVvU1eSausWj1a4SBjdj6cOmIFuWGsGDL9iBLCcHSY84dZI3IZHa6Lw-XlNRXMfY9JdTXYnftF-FxzqTQzpjMBViqwT4nXl20-Hvjd8xcsR2AtgqgtEJorOB/p.jpeg)
+![The Philippines have a problem with garbage.](https://ucb66b40f8bfdbcae9373ffec42f.previews.dropboxusercontent.com/p/thumb/AAgJhYss-lO6fX7j9pZdjZ4ZAn-mhZnt4tk3mdynnzbLLK9nysFuKsnCNBWFYsDJS1W-fWXRf5KwQy6K65oXwMLAlDsHKkibaagqsHW3m793fEPWG_kQB_h1SVx2AhMyaYWe6WEmUBS4np8kaRxgXnhbWK_fZzX13AfZHt0FHWDOparylbCizMGYORCtBlFSkOfTSuNgwYE2546GGrqRG6c5AEGKsGgh4E9oyfxnzl8EjLWBDYHbZoS6UiPNEjbqt5ry7PNLICcDoRs9mxkcmgOEu2_DPqnEIiPZ2F_NAlJW7_lypP4y1NvWHZOzyDfjRygnv0LqEqX4apiAlVoFZxHg-Z9dkqgf6xck-dJJZlAjmLLX66qAux0tRUhbOWaLDoB0uk3MawABHB88vUFwvYrM/p.jpeg)
 
 Studies upon studies show that this problem even leads to hazards such as flooding, which poses a great danger to the lives of millions of poor Filipinos.
 
