@@ -42,7 +42,7 @@ We are going to create a mobile application that:
 1. Allows users to snap photos of different garbage dumps (legit or not), rate the location, and upload it
 2. Has a system for users to validate other users uploads
 3. Provides some visualizations such as a map of points and a heatmap similar to the following:
-![](https://previews.dropbox.com/p/thumb/AAhy6sa_bXyC2wMT4FlUw98bjn0sBQumA9EJNGNq5MIKvoApJ9hTgSD_hyEocqe6yR2TVsq95IPCsYza6ZhEuoX-6G4PtX8ZDosOqw7aYA_XTBX_OJ3Yw9Jx42NZ5-olDgUOdGoyA4ZZ7IM8jA3eMbs4HDhg4bpTBxX7NpUwwXbKmXRLjSLeBfrl5fJVbCW2sBpJH0X6oeqkDqwe4DsyvKhrvVH-O_-AZQTRP2mW2dpI3XucYO7oLNls3jo5c8ShYXIPohJWQC57hjuR3yswR2crKVu2lIjLmv7YgDIfGL7fNVCDmrJOIy76HDoDuIBJhse-nuLv9uma0h1J9u4LBhF7/p.png)
+![](https://uc71e8870aa7d8208704a96963c3.previews.dropboxusercontent.com/p/thumb/AAj7SQy0p0O5hIjKntE_DCYf0jsQOaP1I2rnG6uMHKQLGOGfbSLRbZeaeWDgXPEqKjDBBKXb9NrXUQ5b93S9i7-E32Ii7JZfb9zgjsco7Yr_XT54nTHLCFN6s1wgDI_vGW-CkdueygR77CT9XIatTxX8RjdV9qC18-fE_uRiK6iuakbKMqe41qBEXURfRhCVDxjRP3JF5DtUK6LQRSm0N0SaCUu4_ZanNqqyPBnTz8s-Jtczy3_hu2yNWBWn1TLzQ3BTga75XvBYPtUNcE-e3DihLughcFBN7-mQFQ8lAMOp1SF0SRitOeHIATxnVrV6AMhiz3acsxzTQO8gR2d0jjQ5n1tcNpdFrStwegzxrrHRBEML5pduFdJmvEwZkZ_OdgtIk5l7MBoEaBE5p7Rptboy/p.png?fv_content=true&size_mode=5)
 *Photo from a screenshot of: https://yosmhm.neis-one.org*
 
 ---
