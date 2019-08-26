@@ -49,7 +49,7 @@ We are going to create a mobile application that:
 ## The Hope
 
 With this mission I hope to:
-1. Bring the problem back in from of people's faces. :)
+1. Bring the problem back in front of people's faces. :)
 2. Spark conversations and actions.
 3. Aid NGOs and LGUs in policy-making.
 
