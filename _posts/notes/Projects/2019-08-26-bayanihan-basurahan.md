@@ -60,7 +60,7 @@ With this mission I hope to:
 
 Interested to join us in our quest? Have suggestions or inquiries? Please let us know what you think.
 
-You can sign up to chat with us here: [Tech4GoodPH](https://tech4goodph.slack.com/)
+You can sign up to chat with us: [Tech4GoodPH Slack Invitation Form](https://docs.google.com/forms/d/e/1FAIpQLScPt5WgyStjvpIsvlst1KRNP0b95gw8o2mzDwBN3JccDxSCDA/viewform?usp=sf_link)
 
-You can email us at <a href="mailto:tech4good.pm.me">tech4good@pm.me</a>
+Or you can email us at <a href="mailto:tech4good.pm.me">tech4good@pm.me</a>
 
