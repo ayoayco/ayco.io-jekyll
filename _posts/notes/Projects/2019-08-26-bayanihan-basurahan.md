@@ -6,7 +6,7 @@ category: notes
 
 With some of my most talented techie friends, I am now on a mission to create a simple solution to a big problem: that the Philippines is one of the least disciplined countries in garbage disposal.<!--more-->
 
-![The Philippines have a problem with garbage.](https://ucb66b40f8bfdbcae9373ffec42f.previews.dropboxusercontent.com/p/thumb/AAgJhYss-lO6fX7j9pZdjZ4ZAn-mhZnt4tk3mdynnzbLLK9nysFuKsnCNBWFYsDJS1W-fWXRf5KwQy6K65oXwMLAlDsHKkibaagqsHW3m793fEPWG_kQB_h1SVx2AhMyaYWe6WEmUBS4np8kaRxgXnhbWK_fZzX13AfZHt0FHWDOparylbCizMGYORCtBlFSkOfTSuNgwYE2546GGrqRG6c5AEGKsGgh4E9oyfxnzl8EjLWBDYHbZoS6UiPNEjbqt5ry7PNLICcDoRs9mxkcmgOEu2_DPqnEIiPZ2F_NAlJW7_lypP4y1NvWHZOzyDfjRygnv0LqEqX4apiAlVoFZxHg-Z9dkqgf6xck-dJJZlAjmLLX66qAux0tRUhbOWaLDoB0uk3MawABHB88vUFwvYrM/p.jpeg)
+![The Philippines have a problem with garbage.](/assets/images/garbage.jpg)
 
 Studies upon studies show that this problem even leads to hazards such as flooding, which poses a great danger to the lives of millions of poor Filipinos.
 
@@ -42,7 +42,7 @@ We are going to create a mobile application that:
 1. Allows users to snap photos of different garbage dumps (legit or not), rate the location, and upload it
 2. Has a system for users to validate other users uploads
 3. Provides some visualizations such as a map of points and a heatmap similar to the following:
-![](https://uc71e8870aa7d8208704a96963c3.previews.dropboxusercontent.com/p/thumb/AAj7SQy0p0O5hIjKntE_DCYf0jsQOaP1I2rnG6uMHKQLGOGfbSLRbZeaeWDgXPEqKjDBBKXb9NrXUQ5b93S9i7-E32Ii7JZfb9zgjsco7Yr_XT54nTHLCFN6s1wgDI_vGW-CkdueygR77CT9XIatTxX8RjdV9qC18-fE_uRiK6iuakbKMqe41qBEXURfRhCVDxjRP3JF5DtUK6LQRSm0N0SaCUu4_ZanNqqyPBnTz8s-Jtczy3_hu2yNWBWn1TLzQ3BTga75XvBYPtUNcE-e3DihLughcFBN7-mQFQ8lAMOp1SF0SRitOeHIATxnVrV6AMhiz3acsxzTQO8gR2d0jjQ5n1tcNpdFrStwegzxrrHRBEML5pduFdJmvEwZkZ_OdgtIk5l7MBoEaBE5p7Rptboy/p.png?fv_content=true&size_mode=5)
+![](/assets/images/heatmap.png)
 *Photo from a screenshot of: https://yosmhm.neis-one.org*
 
 ---
