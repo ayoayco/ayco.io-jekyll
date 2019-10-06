@@ -21,6 +21,7 @@ email: ramon.aycojr@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
     // notes on technology and life
 baseurl: "/" # the subpath of your site, e.g. /blog
+google_analytics: 'UA-53021803-1'
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ayoayco
 github_username:  ayoayco
