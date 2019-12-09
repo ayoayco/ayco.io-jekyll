@@ -23,14 +23,23 @@ h1.page-heading {
 }
 
 div#main-jumbotron {
-    margin-top: 20px;
+    margin: 20px auto 0;
     padding: 0 0 0px;
     text-align: center;
+    width: 70%;
 }
 
+div#main-jumbotron #more-profile {
+    margin-bottom: 20px;
+    padding: 0 15px 15px;
+    display: none;
+}
 div#main-jumbotron #profile {
     font-size: xx-large;
     padding: 0 15px 15px;
+}
+div#main-jumbotron #profile a {
+    font-size: medium;
 }
 
 div#main-jumbotron #profile em {
