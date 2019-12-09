@@ -14,51 +14,53 @@ layout: default
 </div>
 <div id="sections">
 
-    <h3 class="section-title">Profile</h3>
-    <h4 class="section-subtitle">Education and Experience</h4>
-    <ul>
-        <li>Graduated Bachelors of Science in Computer Science from the <a href="http://uplb.edu.ph" target="_blank">University of the Philippines</a></li>
-        <li>Over eight years of professional experience in building web applications for private businesses and government-funded projects.</li>
-    </ul>
+    <div id="profile-section">
+        <h3 class="section-title">Profile</h3>
+        <h4 class="section-subtitle">Education and Experience</h4>
+        <ul>
+            <li>Graduated Bachelors of Science in Computer Science from the <a href="http://uplb.edu.ph" target="_blank">University of the Philippines</a></li>
+            <li>Over eight years of professional experience in building web applications for private businesses and government-funded projects.</li>
+        </ul>
+    </div>
 
-    <h3 class="section-title">Trusted By</h3>
-    <h4 class="section-subtitle">Clients and Employers</h4>
-    <ul>
-        <li><a href="https://infor.com">Infor</a></li>
-        <li><a href="http://ajwcc.ateneo.edu/">AJWCC</a></li>
-        <li><a href="http://noah.up.edu.ph">Project NOAH</a></li>
-        <li><a href="https://itc.uplb.edu.ph">UPLB-ITC</a></li>
-    </ul>
+    <div id="sub-sections">
+        <div id="clients-section">
+            <h3 class="section-title">Trusted By</h3>
+            <h4 class="section-subtitle">Clients and Employers</h4>
+            <ul>
+                <li><a href="https://infor.com">Infor</a></li>
+                <li><a href="http://ajwcc.ateneo.edu/">AJWCC</a></li>
+                <li><a href="http://noah.up.edu.ph">Project NOAH</a></li>
+                <li><a href="https://itc.uplb.edu.ph">UPLB-ITC</a></li>
+            </ul>
+        </div>
 
-    <!--
-    - [SEATCA](http://seatca.org/)
-    - [Oxfam in Asia](https://asia.oxfam.org)
-    -->
+        <div id="projects-section">
+            <!-- start blog list-->
+            {% if site.posts.size > 0 %}
+            <h3 id="{page.list-title}" class="section-title">{{ page.list-title }}</h3>
+            <h4 class="section-subtitle">Case Studies</h4>
+              <ul>
+                {% for category in site.categories %}
+                  {% if category[0] == "projects" %}
+                    {% for post in category[1] %}
+                      <li>
+                        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                        <!--span class="post-meta">{{ post.project-date }}</span>: <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a-->
+                        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                        <!--div>
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ post.url | relative_url }}" class="page-link">Read More</a>
+                        </div--> 
+                      </li>
+                    {% endfor %}
+                  {% endif %}
+                {% endfor %}
+            </ul>
 
-  <!-- start blog list-->
-  {% if site.posts.size > 0 %}
-  <h3 id="{page.list-title}" class="section-title">{{ page.list-title }}</h3>
-  <h4 class="section-subtitle">Case Studies</h4>
-    <ul>
-      {% for category in site.categories %}
-        {% if category[0] == "projects" %}
-          {% for post in category[1] %}
-            <li>
-              {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-              <!--span class="post-meta">{{ post.project-date }}</span>: <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a-->
-              <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-              <!--div>
-                  <p>{{ post.excerpt }}</p>
-                  <a href="{{ post.url | relative_url }}" class="page-link">Read More</a>
-              </div--> 
-            </li>
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
-    </ul>
-
-  {% endif %}
-  <!-- end blog list-->
-  </div>
+          {% endif %}
+          <!-- end blog list-->
+        </div>
+    </div>
 
 </div>

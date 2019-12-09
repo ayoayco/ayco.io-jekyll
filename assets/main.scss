@@ -74,6 +74,12 @@ div#sections {
     line-height: 1.5;
     margin: 0 auto;
 }
+div#sub-sections {
+    display: flex;
+}
+div#sub-sections * {
+    min-width: calc(450px/2);
+}
 
 .page-content {
     width: 100%;
@@ -135,6 +141,9 @@ a, .site-nav .page-link {
         -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
         box-shadow: 0 1px 3px rgba(0,0,0,0.5);
         z-index: 1;
+    }
+    div#sub-sections {
+        display: block;
     }
 }
 
