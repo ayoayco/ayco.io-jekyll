@@ -30,16 +30,21 @@ div#main-jumbotron {
 }
 
 div#main-jumbotron #more-profile {
-    margin-bottom: 20px;
     padding: 0 15px 15px;
     display: none;
+    line-height: 1.5;
+    text-align: left;
 }
 div#main-jumbotron #profile {
     font-size: xx-large;
     padding: 0 15px 15px;
+    margin: 0px;
 }
 div#main-jumbotron #profile a {
     font-size: medium;
+    display: inline-block;
+    min-width: 80px;
+    text-align: left;
 }
 
 div#main-jumbotron #profile em {
@@ -102,6 +107,7 @@ div#sub-sections * {
 
 .primary-btn, .primary-btn:visited {
     color: #252525 !important;
+    display: inline-block;
 }
 
 
@@ -112,6 +118,10 @@ div#sub-sections * {
     -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.5),0 1px 5px rgba(0,0,0,0.5);
     box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 1px 5px rgba(0,0,0,0.5);
     text-shadow: 0 1px 0 rgba(255,255,255,0.3);
+}
+
+.site-nav .page-link:not(:last-child) {
+    margin-right: 0px !important;
 }
 
 a, .site-nav .page-link {

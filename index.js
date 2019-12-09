@@ -1,12 +1,12 @@
 let moreProfile = document.getElementById('more-profile');
 toggleShowLink();
 
-window.showMoreProfile = () => {
+function showMoreProfile() {
     moreProfile.style.display = 'block';
     toggleShowLink();
 }
 
-window.hideMoreProfile = () => {
+function hideMoreProfile() {
     moreProfile.style.display = 'none';
     toggleShowLink();
 }
@@ -14,7 +14,6 @@ window.hideMoreProfile = () => {
 function toggleShowLink() {
     const link = document.getElementById('profile').getElementsByTagName('a')[0];
     const display = moreProfile.style.display;
-    console.log(display);
     if (display === 'block') {
         link.innerText = 'Show less';
         link.onmousedown = () => hideMoreProfile();
