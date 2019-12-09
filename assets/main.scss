@@ -6,6 +6,7 @@
 
 body {
     background: #333;
+    min-width: 315px;
 }
 
 div#announcements {
@@ -139,9 +140,12 @@ a, .site-nav .page-link {
         margin-top: 0px;
         padding: 0 0 0px;
         text-align: center;
+        width: 65%;
     }
 
-    div#main-jumbotron #profile,
+    div#main-jumbotron #profile {
+        font-size: x-large;
+    }
     .download-btn {
         font-size: 21px;
     }
