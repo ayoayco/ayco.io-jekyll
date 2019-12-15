@@ -26,6 +26,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ayoayco
 github_username:  ayoayco
 
+destination: public
+source: src
+
 # Build settings
 markdown: kramdown
 theme: minima

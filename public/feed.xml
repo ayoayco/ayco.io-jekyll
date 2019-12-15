@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-16T06:31:56+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ayo Ayco</title><subtitle>// notes on technology and life</subtitle><author><name>Ayo Ayco</name></author><entry><title type="html">Bayanihan: Basurahan</title><link href="http://localhost:4000/notes/bayanihan-basurahan" rel="alternate" type="text/html" title="Bayanihan: Basurahan" /><published>2019-08-26T00:00:00+08:00</published><updated>2019-08-26T00:00:00+08:00</updated><id>http://localhost:4000/notes/bayanihan-basurahan</id><content type="html" xml:base="http://localhost:4000/notes/bayanihan-basurahan">&lt;p&gt;With some of my most talented techie friends, I am now on a mission to create a simple solution to a big problem: that the Philippines is one of the least disciplined countries in garbage disposal.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/garbage.jpg&quot; alt=&quot;The Philippines have a problem with garbage.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Studies upon studies show that this problem even leads to hazards such as flooding, which poses a great danger to the lives of millions of poor Filipinos.&lt;/p&gt;
+
+&lt;p&gt;Now, why does it seem that we don’t talk about it as much as we should?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+
+&lt;p&gt;Notice that no matter how much mess we have in the “real world” we don’t often talk about it online. We see politics, happy photos, and achievements, but rarely do we see messy locations shared on our social media streams.&lt;/p&gt;
+
+&lt;p&gt;This is because our smartphones and computer screens have become our primary “window” to the world, and it is addicting because we have control over what our screens show us.&lt;/p&gt;
+
+&lt;p&gt;We like kitties, we don’t like trash.&lt;/p&gt;
+
+&lt;p&gt;Out of sight, out of mind.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;our-solution&quot;&gt;Our Solution&lt;/h2&gt;
+
+&lt;p&gt;But what if we have a system that could capture the country’s state when it comes to garbage disposal and bring this to people’s attention? Would it spark conversations? Could it aid in creating policies that might bring people to action and even prevent floods?&lt;/p&gt;
+
+&lt;p&gt;I think so.&lt;/p&gt;
+
+&lt;p&gt;This is why in the past week, I have asked some of my techie friends to join me as I start a new quest.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-quest&quot;&gt;The Quest&lt;/h2&gt;
+
+&lt;p&gt;We are going to create a mobile application that:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Allows users to snap photos of different garbage dumps (legit or not), rate the location, and upload it&lt;/li&gt;
+  &lt;li&gt;Has a system for users to validate other users uploads&lt;/li&gt;
+  &lt;li&gt;Provides some visualizations such as a map of points and a heatmap similar to the following:
+&lt;img src=&quot;/assets/images/heatmap.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Photo from a screenshot of: https://yosmhm.neis-one.org&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-hope&quot;&gt;The Hope&lt;/h2&gt;
+
+&lt;p&gt;With this mission I hope to:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Bring the problem back in front of people’s faces. :)&lt;/li&gt;
+  &lt;li&gt;Spark conversations and actions.&lt;/li&gt;
+  &lt;li&gt;Aid NGOs and LGUs in policy-making.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;please-join-us&quot;&gt;Please Join Us&lt;/h2&gt;
+
+&lt;p&gt;Interested to join us in our quest? Have suggestions or inquiries? Please let us know what you think.&lt;/p&gt;
+
+&lt;p&gt;You can sign up to chat with us: &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScPt5WgyStjvpIsvlst1KRNP0b95gw8o2mzDwBN3JccDxSCDA/viewform?usp=sf_link&quot;&gt;Tech4GoodPH Slack Invitation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Or you can email us at &lt;a href=&quot;mailto:tech4good.pm.me&quot;&gt;tech4good@pm.me&lt;/a&gt;&lt;/p&gt;</content><author><name>Ayo</name></author><category term="notes" /><summary type="html">With some of my most talented techie friends, I am now on a mission to create a simple solution to a big problem: that the Philippines is one of the least disciplined countries in garbage disposal.</summary></entry><entry><title type="html">Choosing Your First Programming Language</title><link href="http://localhost:4000/notes/choosing-your-first-language" rel="alternate" type="text/html" title="Choosing Your First Programming Language" /><published>2019-08-20T00:00:00+08:00</published><updated>2019-08-20T00:00:00+08:00</updated><id>http://localhost:4000/notes/choosing-your-first-language</id><content type="html" xml:base="http://localhost:4000/notes/choosing-your-first-language">&lt;p&gt;When learning programming for the fist time, I believe it is important to decide what programming language you will study first.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;There is quite a lot of programming languages out there, but not all are friendly for beginners.&lt;/p&gt;
+
+&lt;p&gt;So far, there are two programming languages that rise above the rest when it comes to friendliness to first-time programmers: C and Python.&lt;/p&gt;
+
+&lt;p&gt;The main difference between the two as options for learning programming could be likened to your options when learning to drive cars–would you like to try out an automatic or a manual?&lt;/p&gt;
+
+&lt;p&gt;Learning in Python is much like learning how to drive a car with an automatic transmission.&lt;/p&gt;
+
+&lt;p&gt;You don’t have to mind much of the what’s happening under the hood, and what’s happening is often abstracted to you.&lt;/p&gt;
+
+&lt;p&gt;For an example, you don’t have to worry about memory allocation. Whereas in C, you have more control: you’re driving a manual.&lt;/p&gt;
+
+&lt;p&gt;I learned programming for the first time in C.&lt;/p&gt;
+
+&lt;p&gt;This, I believe, made it easier for me to learn other languages and understand how the computer works.&lt;/p&gt;
+
+&lt;p&gt;For this reason, I find Python a little lacking when it comes to control.&lt;/p&gt;
+
+&lt;p&gt;But I also understand Python is easier to learn and use for beginners who just wants to start coding and doesn’t really plan to dive deep into computers.&lt;/p&gt;
+
+&lt;p&gt;This is why, I think, many tutorials and classes for beginners use and recommend Python.&lt;/p&gt;
+
+&lt;p&gt;If you have a particular problem you want to solve, you will have to consider other factors in choosing your programming language.&lt;/p&gt;
+
+&lt;p&gt;Remember, I’m not talking about which language is more powerful (though I would still pick C).&lt;/p&gt;
+
+&lt;p&gt;Rather, I’m just bringing up the difference of the two languages when it comes to friendliness for first-time programmers.&lt;/p&gt;</content><author><name>Ayo</name></author><category term="notes" /><summary type="html">When learning programming for the fist time, I believe it is important to decide what programming language you will study first.</summary></entry><entry><title type="html">Infor M3</title><link href="http://localhost:4000/projects/2019/05/30/m3.html" rel="alternate" type="text/html" title="Infor M3" /><published>2019-05-30T00:00:00+08:00</published><updated>2019-05-30T00:00:00+08:00</updated><id>http://localhost:4000/projects/2019/05/30/m3</id><content type="html" xml:base="http://localhost:4000/projects/2019/05/30/m3.html">&lt;p&gt;Infor’s most powerful ERP cloud software. I worked on two frontend projects, namely: &lt;strong&gt;M3H5&lt;/strong&gt; -Web UI using JQuery;  and &lt;strong&gt;M3UX2&lt;/strong&gt; -rewrite project of M3H5 using Angular.&lt;/p&gt;
+
+&lt;p&gt;For more detais, go to: &lt;a href=&quot;https://www.infor.com/products/m3&quot;&gt;Infor M3 Product Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Technologies: JQuery, NodeJS, Angular, TypeScript&lt;/p&gt;</content><author><name>Ayo</name></author><category term="projects" /><summary type="html">Infor’s most powerful ERP cloud software. I worked on two frontend projects, namely: M3H5 -Web UI using JQuery; and M3UX2 -rewrite project of M3H5 using Angular. For more detais, go to: Infor M3 Product Page Technologies: JQuery, NodeJS, Angular, TypeScript</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ayo.png" /><media:content medium="image" url="http://localhost:4000/ayo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mailchimp + Lotus Notes Solution for HTML Email Campaigns</title><link href="http://localhost:4000/notes/mailchimp-and-lotus-notes-issue" rel="alternate" type="text/html" title="Mailchimp + Lotus Notes Solution for HTML Email Campaigns" /><published>2018-10-07T00:00:00+08:00</published><updated>2018-10-07T00:00:00+08:00</updated><id>http://localhost:4000/notes/mailchimp-and-lotus-notes-issue</id><content type="html" xml:base="http://localhost:4000/notes/mailchimp-and-lotus-notes-issue">&lt;p&gt;I had a client once using one WYSIWYG (What You See Is What You Get) tool for designing HTML Email campaigns… but they are not getting the results they want to see. The HTML email designs are chaotic when received in their readers’ computers.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+
+&lt;p&gt;The client’s readers use Lotus Notes for reading their emails. The problem is, Lotus Notes may not always display HTML emails as expected. Instead, it displays HTML emails in a proprietary rich-text format. This means that Lotus Notes, as an email reader, uses its own standards in rendering HTML emails that is quite different compared to all other popular email readers (i.e., Gmail, Outlook, etc.).&lt;/p&gt;
+
+&lt;p&gt;There are HTML elements that Lotus Notes simply does not understand. To make things more complicated, different versions of Lotus Notes have different rendering standards. This means that creating an HTML email template that works for one Lotus Notes version does not guarantee it will work on others.&lt;/p&gt;
+
+&lt;p&gt;This is why HTML Email designers hate Lotus Notes the most–pretty much like Internet Explorer for Web Developers.&lt;/p&gt;
+
+&lt;h2 id=&quot;findings-on-lotus-notes-html-email-rendering&quot;&gt;Findings on Lotus Notes HTML email rendering&lt;/h2&gt;
+
+&lt;p&gt;Lotus Notes has several issues with widely accepted HTML standards because of its own proprietary rich-text formatting. Here are some of these issues that can be found if you search the web:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;COLSPANS. These are attributes of table cells to tell the email client or the browser how many columns they span over. Lotus Notes cannot seem to understand this and we might need to just use multiple tables as a workaround.&lt;/li&gt;
+  &lt;li&gt;CENTER ALIGNMENT. Using &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;TABLE ALIGN=&quot;CENTER&quot;&amp;gt;&lt;/code&gt; worked great in Lotus Notes 6.5.3. But not at all in Lotus Notes 6.5.4. Also, &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;CENTER&amp;gt;&lt;/code&gt; tags around the tables didn’t work in 6.5.4 either. We can make things simpler as a workaround so they’d look okay as left-aligned in 6.5.4.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;other-possible-workarounds-and-good-practice&quot;&gt;Other Possible Workarounds and Good Practice&lt;/h2&gt;
+&lt;p&gt;Here are some helpful tips in designing HTML emails for Lotus Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Use Mail Chimp’s &lt;code class=&quot;highlighter-rouge&quot;&gt;*|ARCHIVE|*&lt;/code&gt; merge tag to automatically generate a link to the online version of your MailChimp campaign. Subscribers can click this link to view your campaign directly in their web browsers.&lt;/li&gt;
+  &lt;li&gt;Allow your subscribers to choose which version of your campaign they want to receive when they sign up to your list: HTML, Text, or Mobile. If they have difficulty viewing HTML email, they can select the Text option instead.&lt;/li&gt;
+  &lt;li&gt;Keep your designs simple so that if they fail, your email is still readable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;suggestion-on-campaign-creation-workflow&quot;&gt;Suggestion on Campaign Creation Workflow&lt;/h2&gt;
+&lt;p&gt;The WYSIWYG tool I mentioned earlier, is one that is provided by Mailchimp. This tool is great. I recommend it… if your readers’ does not use Lotus Notes.&lt;/p&gt;
+
+&lt;p&gt;Mailchimp’s Drag and Drop tool for creating Email Campaigns generates HTML code that tries to make the campaign look good in many popular email programs. Unfortunately, Lotus Notes does not play well with most of these programs’ HTML rendering standards.&lt;/p&gt;
+
+&lt;p&gt;To make sure the Campaign will look good in Lotus Notes, we have to clean up the code that Mailchimp generates.&lt;/p&gt;
+
+&lt;p&gt;Follow these steps to clean up the HTML email design:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Save Campaign as Template. To do this, Go to Campaigns page, Edit your Campaign, then click “Save as Template”. This is necessary because Mailchimp only allows Exporting to HTML from Templates.&lt;/li&gt;
+  &lt;li&gt;Export Template to HTML. Once the Campaign is saved as a Template you can now export it into HTML code that we can clean up. Go to Templates page, click the dropdown button beside the Edit button on the Template, then select “Export as HTML”&lt;/li&gt;
+  &lt;li&gt;Clean Up the HTML Code. Once you select the “Export as HTML” option, a file will be downloaded to your computer. Open this file in a Text Editor then do the following:&lt;/li&gt;
+  &lt;li&gt;Add Lotus Notes specific elements.&lt;/li&gt;
+  &lt;li&gt;In the HTML code you downloaded, you will most probably find a line with this code: &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;!--[if gte mso 9]&amp;gt;&lt;/code&gt; … replace all occurrence with &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;!--[if (gte mso 9)|(IE)]&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Lotus notes Microsoft’s Internet Explorer (IE) to render HTML emails.&lt;/li&gt;
+  &lt;li&gt;Remove style rules intended for smartphones.&lt;/li&gt;
+  &lt;li&gt;In the HTML code, if you find @media{ … } rules inside the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;style&amp;gt; ... &amp;lt;/style&amp;gt;&lt;/code&gt; tags, you may remove it.&lt;/li&gt;
+  &lt;li&gt;These @media{ … } rules are intended for smartphones and may not play well with Lotus Notes.&lt;/li&gt;
+  &lt;li&gt;Make CSS style rules inline. As much as possible, apply style rules found inside the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;style&amp;gt; ... &amp;lt;/style&amp;gt;&lt;/code&gt; tags as inline styles to the elements. As of writing this blog, Mailchimp has an automatic inline feature to do this. Just check the checkbox in the design settings and Mailchimp will automatically do this for you.&lt;/li&gt;
+  &lt;li&gt;Upload the Clean HTML Code into Mailchimp. Once you have done the cleaning up steps, you can go back to Mailchimp then create a Campaign using the new HTML Email. Create a Campain then choose HTML Email, then paste the code from the Text Editor you used.&lt;/li&gt;
+  &lt;li&gt;Test the how the HTML Email looks. Mailchimp provides a paid feature called Inbox Preview to see how the HTML Email renders in several popular Email programs. If you are on a free account, you can use Preview Mode instead. Another option is opening an account in Litmus (http://litmus.com) which gives you screenshots of the HTML Email rendered in various Email Programs (including versions of Lotus Notes).&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Ayo</name></author><category term="notes" /><summary type="html">I had a client once using one WYSIWYG (What You See Is What You Get) tool for designing HTML Email campaigns… but they are not getting the results they want to see. The HTML email designs are chaotic when received in their readers’ computers.</summary></entry><entry><title type="html">Cloud-Based Intelligent Total Analysis System 2.0</title><link href="http://localhost:4000/projects/2018/01/13/citas.html" rel="alternate" type="text/html" title="Cloud-Based Intelligent Total Analysis System 2.0" /><published>2018-01-13T00:00:00+08:00</published><updated>2018-01-13T00:00:00+08:00</updated><id>http://localhost:4000/projects/2018/01/13/citas</id><content type="html" xml:base="http://localhost:4000/projects/2018/01/13/citas.html">&lt;p&gt;Web app for CITAS version 2 - a platform for remote data collection, data storage, and a data analysis framework for the detection and forecasting of plant diseases.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;More details about this project will be added later.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Technologies: NodeJS, Angular, ExpressJS, Leaflet, Highcharts&lt;/p&gt;</content><author><name>Ayo</name></author><category term="projects" /><summary type="html">Web app for CITAS version 2 - a platform for remote data collection, data storage, and a data analysis framework for the detection and forecasting of plant diseases. More details about this project will be added later. Technologies: NodeJS, Angular, ExpressJS, Leaflet, Highcharts</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ayo.png" /><media:content medium="image" url="http://localhost:4000/ayo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why all Developers need Github</title><link href="http://localhost:4000/notes/why-github" rel="alternate" type="text/html" title="Why all Developers need Github" /><published>2018-01-12T00:00:00+08:00</published><updated>2018-01-12T00:00:00+08:00</updated><id>http://localhost:4000/notes/why-github</id><content type="html" xml:base="http://localhost:4000/notes/why-github">&lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt; is a website for opensource communities. It is sort of the place in the Web where developers get together to work on projects. &lt;!--more--&gt;Because of this, I find it the best place to learn how to contribute to/start an opensource project or even just to see and learn how other developers code and communicate with each other to resolve issues. To cut the long story short, Github’s a good place to learn.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-have-learned-over-at-github&quot;&gt;Things I have learned over at github&lt;/h2&gt;
+
+&lt;p&gt;Here, I list some significant things I have learned over the time I have lurked around Github.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Projects, the good ones, attract developers with the same interests. Communities get born around good projects. Once the project becomes big enough, Governing bodies with leaders rise up to ensure the direction of the project is properly set.&lt;/li&gt;
+  &lt;li&gt;There are documents that are crucial to the health of a good project. The leaders of the community/contributors need to work on these:
+    &lt;ol&gt;
+      &lt;li&gt;README.md - this document contains necessary information regarding the project for everyone interested in it.&lt;/li&gt;
+      &lt;li&gt;CONTRIBUTING.md - this document contains the steps anyone who wants to contribute need to take and the principles they need to understand.&lt;/li&gt;
+      &lt;li&gt;CODE_OF_CONDUCT.md - this document contains the pledge of everyone in the community, usually promising to be welcoming and nurturing, protecting everyone from harassment or abuse, and promoting constructive attitude.&lt;/li&gt;
+      &lt;li&gt;LICENSE - this document takes care of legal matters (I still need to read more regarding this)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Essentially, anyone should be able to contribute. Opensource!&lt;/li&gt;
+  &lt;li&gt;But before you do get to contribute to the source code, usually, projects require the code you are &lt;em&gt;merging&lt;/em&gt; in to the master branch to be reviewed by other contributors. This ensures that no one messes up the code without another contributor allowing it. :)&lt;/li&gt;
+  &lt;li&gt;If not contributing code, you may contribute by reporting an issue.&lt;/li&gt;
+  &lt;li&gt;The UNIX project pioneered the idea that opensource projects must stay flexible to developers that want to change it. This means that I can take a projects code, and then hack away as my heart desires. In this sense, anyone is free to change the original project’s code in anyway they want. However, any code that will be requested to merge to the original project’s master branch should conform to the project’s set standards such as Coding Style and Project Roadmap.&lt;/li&gt;
+  &lt;li&gt;Github &lt;em&gt;Issues&lt;/em&gt; is the tracker for every task or discussions related to the project. Commits could directly reference an issue by having the issue number in the commit message. For example, the commit message “Fixes #1 - check for undefined parameters” will reference issue #1.&lt;/li&gt;
+  &lt;li&gt;A commit that refer to an issue with the word “Fixes”, “Fixed”, “Fix”, “Closes”, “Closed”, or “Close” will close the issue when merged to the master branch.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Ayo</name></author><category term="notes" /><summary type="html">Github is a website for opensource communities. It is sort of the place in the Web where developers get together to work on projects.</summary></entry><entry><title type="html">Innovation Flight Central</title><link href="http://localhost:4000/projects/2018/01/12/innovation.html" rel="alternate" type="text/html" title="Innovation Flight Central" /><published>2018-01-12T00:00:00+08:00</published><updated>2018-01-12T00:00:00+08:00</updated><id>http://localhost:4000/projects/2018/01/12/innovation</id><content type="html" xml:base="http://localhost:4000/projects/2018/01/12/innovation.html">&lt;p&gt;Hosted in Infor’s private intranet, this is a submission platform where employees can share ideas or kick-start projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;More details about this project will be added later.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Technologies: PHP, MySQL, MiniOrange SAML Login, Windows Server (IIS), Windows ADFS&lt;/p&gt;</content><author><name>Ayo</name></author><category term="projects" /><summary type="html">Hosted in Infor’s private intranet, this is a submission platform where employees can share ideas or kick-start projects. More details about this project will be added later. Technologies: PHP, MySQL, MiniOrange SAML Login, Windows Server (IIS), Windows ADFS</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ayo.png" /><media:content medium="image" url="http://localhost:4000/ayo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Anti-Tobacco Industry Interference</title><link href="http://localhost:4000/projects/2018/01/11/tobacco.html" rel="alternate" type="text/html" title="Anti-Tobacco Industry Interference" /><published>2018-01-11T00:00:00+08:00</published><updated>2018-01-11T00:00:00+08:00</updated><id>http://localhost:4000/projects/2018/01/11/tobacco</id><content type="html" xml:base="http://localhost:4000/projects/2018/01/11/tobacco.html">&lt;p&gt;An online toolkit for Preventing Tobacco Industry Interference presenting a range of issues, policy options, and considerations that governments need to take into account when implementing Article 5.3 of the World Health Organization Framework Convention on Tobacco Control (WHO FCTC).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;More details about this project will be added later.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Technologies: Wordpress, PHP, HTML, JavaScript, CSS, MySQL&lt;/p&gt;</content><author><name>Ayo</name></author><category term="projects" /><summary type="html">An online toolkit for Preventing Tobacco Industry Interference presenting a range of issues, policy options, and considerations that governments need to take into account when implementing Article 5.3 of the World Health Organization Framework Convention on Tobacco Control (WHO FCTC). More details about this project will be added later. Technologies: Wordpress, PHP, HTML, JavaScript, CSS, MySQL</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ayo.png" /><media:content medium="image" url="http://localhost:4000/ayo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">WebSAFE</title><link href="http://localhost:4000/projects/2018/01/10/websave.html" rel="alternate" type="text/html" title="WebSAFE" /><published>2018-01-10T00:00:00+08:00</published><updated>2018-01-10T00:00:00+08:00</updated><id>http://localhost:4000/projects/2018/01/10/websave</id><content type="html" xml:base="http://localhost:4000/projects/2018/01/10/websave.html">&lt;p&gt;Built with free and open source software InaSAFE at its core, WebSAFE is an impact assessment tool used in the Philippines to calculate the needs of a community considering the effects of a particular hazard. This feature is accessible in the Project NOAH web app.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;More details about this project will be added later.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Technologies: AngularJS, HTML, JavaScript, CSS, Python, PostgreSQL&lt;/p&gt;</content><author><name>Ayo</name></author><category term="projects" /><summary type="html">Built with free and open source software InaSAFE at its core, WebSAFE is an impact assessment tool used in the Philippines to calculate the needs of a community considering the effects of a particular hazard. This feature is accessible in the Project NOAH web app. More details about this project will be added later. Technologies: AngularJS, HTML, JavaScript, CSS, Python, PostgreSQL</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ayo.png" /><media:content medium="image" url="http://localhost:4000/ayo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/hello-world" rel="alternate" type="text/html" title="Hello World" /><published>2018-01-09T00:00:00+08:00</published><updated>2018-01-09T00:00:00+08:00</updated><id>http://localhost:4000/hello-world</id><content type="html" xml:base="http://localhost:4000/hello-world">&lt;h3 id=&quot;oh-another-hello-world-thingy&quot;&gt;Oh, another hello world thingy&lt;/h3&gt;
+
+&lt;p&gt;Yes, yet another blog. Hopefully this one sticks.&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// here's some code&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;here's some code&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Ayo</name></author><summary type="html">Oh, another hello world thingy Yes, yet another blog. Hopefully this one sticks. // here's some code console.log(&quot;here's some code&quot;);</summary></entry></feed>
