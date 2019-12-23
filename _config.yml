@@ -52,7 +52,7 @@ navigation:
   url: /
 - text: "Tech Blog"
   newWindow: true
-  url: https://fullhacker.com
+  url: https://blog.fullhacker.com
 - text: Talks
   newWindow: false
   url: /talks/
