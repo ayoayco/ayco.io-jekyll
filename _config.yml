@@ -50,9 +50,9 @@ navigation:
 - text: Profile
   newWindow: false
   url: /
-- text: "Tech Blog"
+- text: "Blog"
   newWindow: true
-  url: https://blog.fullhacker.com
+  url: https://blog.ayoayco.com
 - text: Talks
   newWindow: false
   url: /talks/
