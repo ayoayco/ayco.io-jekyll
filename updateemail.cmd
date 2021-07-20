@@ -1,5 +1,5 @@
 git filter-branch --commit-filter '
-        if [ "$GIT_AUTHOR_EMAIL" = "mail@ayoayco.com" ];
+        if [ "$GIT_AUTHOR_EMAIL" = "mail@ayco.io" ];
         then
                 GIT_AUTHOR_EMAIL="ramon.aycojr@gmail.com";
                 git commit-tree "$@";

@@ -16,7 +16,7 @@
 title: Ayo Ayco
 author: Ayo Ayco
 attribution: "2021 &copy; by Ramon Ayco Jr"
-website: AyoAyco.com
+website: ayco.io
 email: ramon.aycojr@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
     // notes on technology and life
@@ -52,7 +52,7 @@ navigation:
   url: /
 - text: "Blog"
   newWindow: true
-  url: https://blog.ayoayco.com
+  url: https://blog.ayco.io
 - text: Talks
   newWindow: false
   url: /talks/
