@@ -53,6 +53,9 @@ navigation:
 - text: "Blog"
   newWindow: true
   url: https://blog.ayco.io
+- text: "Music"
+  newWindow: true
+  url: https://soundcloud.com/ayoayco
 - text: Talks
   newWindow: false
   url: /talks/
