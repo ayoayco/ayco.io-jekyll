@@ -7,7 +7,7 @@ _gh_pages
 _site
 .ruby-version
 
-Gemfile.lock
+# Gemfile.lock
 
 # Numerous always-ignore extensions
 *.diff
