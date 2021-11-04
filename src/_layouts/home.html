@@ -8,70 +8,69 @@ published: true
   {{ content }}
   <!-- end content-->
 
-<!--div id="main-jumbotron">
-    <p id="profile">Ayo Ayco is a creative who writes <em class="home">blogs</em>, creates <em class="home">apps</em>, and enjoy <em class="home">games</em>. <a href="#"></a></p>
-</div-->
-<div id="sections">
+  <div id="sections">
 
-    <div id="profile-section">
-        <h3 class="section-title">Profile</h3>
-        <h4 class="section-subtitle">Education and Experience</h4>
-        <ul>
-            <li>Over NINE years of professional experience in building web applications for private businesses and government-funded projects.</li>
+      <div id="profile-section">
+          <h3 class="section-title">Profile</h3>
+          <h4 class="section-subtitle">Education and Experience</h4>
+          <ul>
+              <li>
+                Over NINE years of professional experience in building web applications for private businesses and government-funded projects.
+              </li>
 
-            <li>Graduated BS Computer Science from the <a href="http://uplb.edu.ph" target="_blank">University of the Philippines</a></li>
+              <li>
+                Graduated BS Computer Science from the <a href="http://uplb.edu.ph" target="_blank">University of the Philippines</a>
+              </li>
 
-            <li>
-            Global Innovation Winner for the Hack for Good with Angular and NativeScript 2019 🎉 <a href="https://blog.angular.io/hack-for-good-6b500f1946a3#36f0" target="_blank">Angular announcement</a>
-            </li>
+              <li>
+                Global <a href="https://blog.angular.io/hack-for-good-6b500f1946a3#36f0" target="_blank">Innovation Winner</a> for the Hack for Good with Angular and NativeScript 2019 🎉
+              </li>
 
-            <li>
-            Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
-            </li>
+              <li>
+                Innovation Award, HIRAYA, Infor Sinagtala Awards 2018;
+              </li>
 
-            <li>Has contributed software development expertise to UPLB, DOST, Infor, and projects such as the <em>University of the Philippines’ National Operational Assessment of Hazards</em> and <em>Ateneo’s Cloud-Based Intelligent Total Analysis System.</em></li>
-        </ul>
-    </div>
+              <li>
+                Has contributed software development expertise to UPLB, DOST, Infor, and projects such as the <em>University of the Philippines’ National Operational Assessment of Hazards</em> and <em>Ateneo’s Cloud-Based Intelligent Total Analysis System.</em>
+              </li>
+          </ul>
+      </div>
 
-    <div id="sub-sections">
-        <div id="clients-section">
-            <h3 class="section-title">Trusted By</h3>
-            <h4 class="section-subtitle">Clients and Employers</h4>
-            <ul>
-                <li><a href="https://infor.com">Infor</a></li>
-                <li><a href="https://impacthub.ph/">Impact Hub Manila</a></li>
-                <li><a href="http://ajwcc.ateneo.edu/">AJWCC</a></li>
-                <li><a href="http://noah.up.edu.ph">Project NOAH</a></li>
-                <li><a href="https://itc.uplb.edu.ph">UPLB-ITC</a></li>
-            </ul>
-        </div>
-
-        <div id="projects-section">
+      <div id="sub-sections">
+          <div id="clients-section">
+              <h3 class="section-title">Trusted By</h3>
+              <h4 class="section-subtitle">Clients and Employers</h4>
+              <ul>
+                  <li><a href="https://infor.com">Infor</a></li>
+                  <li><a href="https://impacthub.ph/">Impact Hub Manila</a></li>
+                  <li><a href="http://ajwcc.ateneo.edu/">AJWCC</a></li>
+                  <li><a href="http://noah.up.edu.ph">Project NOAH</a></li>
+                  <li><a href="https://itc.uplb.edu.ph">UPLB-ITC</a></li>
+              </ul>
+          </div>
+          <div id="projects-section">
             <!-- start blog list-->
             {% if site.posts.size > 0 %}
-            <h3 id="{page.list-title}" class="section-title">{{ page.list-title }}</h3>
-            <h4 class="section-subtitle">Case Studies</h4>
+              <h3 id="{page.list-title}" class="section-title">{{ page.list-title }}</h3>
+              <h4 class="section-subtitle">Case Studies</h4>
+
               <ul>
                 {% for category in site.categories %}
                   {% if category[0] == "projects" %}
                     {% for post in category[1] %}
                       <li>
                         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                        <!--span class="post-meta">{{ post.project-date }}</span>: <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a-->
                         <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-                        <!--div>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="{{ post.url | relative_url }}" class="page-link">Read More</a>
-                        </div--> 
                       </li>
                     {% endfor %}
                   {% endif %}
                 {% endfor %}
-            </ul>
+              </ul>
 
-          {% endif %}
-          <!-- end blog list-->
-        </div>
-    </div>
+            {% endif %}
+            <!-- end blog list-->
+          </div>
+      </div>
 
+  </div>
 </div>
