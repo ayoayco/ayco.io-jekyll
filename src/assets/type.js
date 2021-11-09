@@ -7,26 +7,26 @@
 // Copy from line 9 to 34
 
 function autoType(elementClass, typingSpeed){
-    var thhis = $(elementClass);
-    thhis.css({
+    var _this = $(elementClass);
+    _this.css({
       "position": "relative",
       "display": "inline-block"
     });
-    thhis.prepend('<div class="cursor" style="right: initial; left:0;"></div>');
-    thhis = thhis.find(".text-js");
-    var text = thhis.text().trim().split('');
+    _this.prepend('<div class="cursor" style="right: initial; left:0;"></div>');
+    _this = _this.find(".text-js");
+    var text = _this.text().trim().split('');
     var amntOfChars = text.length;
     var newString = "";
-    thhis.text("|");
+    _this.text("|");
     setTimeout(function(){
-      thhis.css("opacity",1);
-      thhis.prev().removeAttr("style");
-      thhis.text("");
+      _this.css("opacity",1);
+      _this.prev().removeAttr("style");
+      _this.text("");
       for(var i = 0; i < amntOfChars; i++){
         (function(i,char){
           setTimeout(function() {        
             newString += char;
-            thhis.text(newString);
+            _this.text(newString);
           },i*typingSpeed);
         })(i+1,text[i]);
       }
@@ -38,6 +38,4 @@ function autoType(elementClass, typingSpeed){
     // class of outer div
     // The second paramter is the speed between each letter is typed.   
     autoType(".type-js",200);
-
-    console.log('dom loaded!');
   });
