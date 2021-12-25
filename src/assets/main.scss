@@ -232,12 +232,12 @@ a,
     }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 600px) {
     section#icons-container {
         height: 340px;
 
         #jumbotron-wrapper {
-            padding: 30px;
+            padding: 34px;
             width: calc(100% - 60px);
             margin: 0 auto;
 
