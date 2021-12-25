@@ -83,6 +83,7 @@ h1.page-heading {
     font-family: "Caveat";
 }
 
+// .main-sub-heading-name, 
 .main-heading-name {
     font-weight: bold;
 }
@@ -230,12 +231,13 @@ a,
         }
     }
 }
-@media screen and (max-width: 600px) {
+
+@media screen and (max-width: 640px) {
     section#icons-container {
-        height: 450px;
+        height: 340px;
 
         #jumbotron-wrapper {
-            padding: 70px 30px 30px;
+            padding: 30px;
             width: calc(100% - 60px);
             margin: 0 auto;
 
@@ -244,11 +246,11 @@ a,
                 width: 100%;
                 text-align: center;
                 h1 {
-                    font-size: 35px;
+                    font-size: 32px;
                 }
 
                 h2.main-sub-heading {
-                    font-size: 35px;
+                    font-size: 32px;
                 }
 
                 p {
