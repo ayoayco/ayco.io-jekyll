@@ -50,18 +50,20 @@ navigation:
 - text: Profile
   newWindow: false
   url: /
-- text: "Blog"
-  newWindow: true
-  url: https://blog.ayco.io
-- text: "Music"
-  newWindow: true
-  url: https://soundcloud.com/ayoayco
-- text: Talks
-  newWindow: false
-  url: /talks/
 - text: Notes
   newWindow: false
   url: /notes/
+- text: Talks
+  newWindow: false
+  url: /talks/
+- text: "Music"
+  newWindow: true
+  url: https://soundcloud.com/ayoayco
+- text: "Blog"
+  newWindow: true
+  url: https://blog.ayco.io
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
