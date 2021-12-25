@@ -6,6 +6,6 @@ layout: "home"
 title: "Software Engineer + Web Developer"
 image: ayo.png
 list-title: "Recent Projects"
-description: "Ayo Ayco has contributed software development expertise to UPLB, DOST, Infor, and various government-funded projects such as University of the Philippines’ National Operational Assessment of Hazards and Ateneo’s Cloud-Based Intelligent Total Analysis System."
+description: "Ayo Ayco is a Software Engineer from The Philippines, now in The Netherlands! He has contributed software development expertise to UPLB, DOST, Infor, and various government-funded projects such as University of the Philippines’ National Operational Assessment of Hazards and Ateneo’s Cloud-Based Intelligent Total Analysis System."
 ---
 
