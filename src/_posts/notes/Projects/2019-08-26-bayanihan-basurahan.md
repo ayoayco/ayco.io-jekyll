@@ -54,13 +54,13 @@ With this mission I hope to:
 2. Spark conversations and actions.
 3. Aid NGOs and LGUs in policy-making.
 
----
+<!-- --- -->
 
-## Please Join Us
+<!-- ## Please Join Us
 
 Interested to join us in our quest? Have suggestions or inquiries? Please let us know what you think.
 
 You can sign up to chat with us: [Tech4GoodPH Slack Invitation](https://docs.google.com/forms/d/e/1FAIpQLScPt5WgyStjvpIsvlst1KRNP0b95gw8o2mzDwBN3JccDxSCDA/viewform?usp=sf_link)
 
-Or you can email us at <a href="mailto:tech4good.pm.me">tech4good@pm.me</a>
+Or you can email us at <a href="mailto:tech4good.pm.me">tech4good@pm.me</a> -->
 
