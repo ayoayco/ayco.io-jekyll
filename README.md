@@ -8,3 +8,8 @@ This is a blog built with [Jekyll](https://github.com/jekyll/jekyll), a static s
 
 Later, I will do a fork of Minima theme and publish my customizations.
 
+# Plans to move away from Jekyll
+
+Coming back to this Jekyll project in 2022 with an M1 Macbook Pro is a pain. This is not the first time I have had issues setting it up in different kinds of machine. Because of this I plan to move away from Jekyll for a more stable development experience.
+
+I will continue to update content since the CI/CD pipeline is already working.
