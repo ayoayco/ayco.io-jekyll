@@ -17,14 +17,14 @@ title: Ayo Ayco
 author: Ayo Ayco
 attribution: "2021 &copy; by Ayo Ayco"
 website: ayco.io
-email: ramon.aycojr+web@gmail.com
+email: ayo@ayco.io
 description: >- # this means to ignore newlines until "baseurl:"
-    Ayo Ayco is a Software Engineer from The Philippines, now in The Netherlands!
+  Ayo Ayco is a Software Engineer from The Philippines, now in The Netherlands!
 baseurl: "/" # the subpath of your site, e.g. /blog
-google_analytics: 'UA-53021803-1'
+google_analytics: "UA-53021803-1"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ayoayco
-github_username:  ayoayco
+github_username: ayoayco
 
 destination: public
 source: src
@@ -36,35 +36,31 @@ plugins:
   - jekyll-feed
 
 defaults:
--
-  scope:
-    path: ""
-    type: "posts"
-  values:
-    layout: post
-    author: Ayo
-    excerpt_separator: <!--more-->
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Ayo
+      excerpt_separator: <!--more-->
 
 # this goes inside _config.yml. Change as required
 navigation:
-- text: Profile
-  newWindow: false
-  url: /
-- text: Notes
-  newWindow: false
-  url: /notes/
-- text: Talks
-  newWindow: false
-  url: /talks/
-- text: "Music"
-  newWindow: true
-  url: https://soundcloud.com/ayoayco
-- text: "Blog"
-  newWindow: true
-  url: https://blog.ayco.io
-
-
-
+  - text: Profile
+    newWindow: false
+    url: /
+  - text: Notes
+    newWindow: false
+    url: /notes/
+  - text: Talks
+    newWindow: false
+    url: /talks/
+  - text: "Music"
+    newWindow: true
+    url: https://soundcloud.com/ayoayco
+  - text: "Blog"
+    newWindow: true
+    url: https://blog.ayco.io
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
